@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Statistics Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-12 13:29+0000\n"
+"PO-Revision-Date: 2024-02-12 13:58+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.3\n"
+"X-Domain: wcpdomain"
+
+#: first-plugin.php:56
+msgid "palabras"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin que cuenta las palabras que un post y lo muestra"
+msgstr ""
+
+#. Name of the plugin
+msgid "Post Statistics Plugin"
+msgstr ""
+
+#. URI of the plugin
+msgid "salvadorplanas.com"
+msgstr ""
+
+#: first-plugin.php:56
+msgid "This post has"
+msgstr ""
+
+#. Author of the plugin
+msgid "Tu Nombre"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "Tu URL"
+msgstr ""
+
+#: first-plugin.php:85
+msgid "Word Count"
+msgstr ""
